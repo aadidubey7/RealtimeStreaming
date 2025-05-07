@@ -4,3 +4,4 @@ src/config
 .DS_Store
 __pycache__
 *.json
+datasets
